@@ -52,7 +52,7 @@ export const personalData = {
       title: "Software Engineer",
       company: "IConcept Software Services Pvt Ltd",
       period: "Feb 2023 - Present",
-      logo: "./src/assets/iconcept-logo.png?height=50&width=50",
+      logo: "/iconcept-logo.png?height=50&width=50",
       responsibilities: [
         "I became proficient in developing and debugging robust RESTful APIs using Node.js.",
         "Played an important role in company projects like AgriPortal, MapOut Analytics, and NeoPmc.",
@@ -64,7 +64,7 @@ export const personalData = {
       title: "Mern Stack Course",
       company: "10x Academy",
       period: "Jun 2022 - Dec 2022",
-      logo: "./src/assets/10x-academy-logo.png?height=50&width=50",
+      logo: "/10x-academy-logo.png?height=50&width=50",
       responsibilities: [
         "Start learning Mern stack around still Time",
         "Learned and created mini projects around frontend devs using Javascript, React",
