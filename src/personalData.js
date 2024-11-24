@@ -64,7 +64,8 @@ export const personalData = {
       title: "Mern Stack Course",
       company: "10x Academy",
       period: "Jun 2022 - Dec 2022",
-      logo: "/dist/10x-academy-logo.png?height=50&width=50",
+      logo1: "/dist/10x-academy-logo.png?height=50&width=50",
+      logo: "/vite.svg",
       responsibilities: [
         "Start learning Mern stack around still Time",
         "Learned and created mini projects around frontend devs using Javascript, React",
