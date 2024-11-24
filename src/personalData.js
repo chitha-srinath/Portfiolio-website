@@ -19,14 +19,14 @@ export const personalData = {
   GithubUrl: "https://github.com/chitha-srinath?tab=repositories",
   WhatsAppUrl:
     "https://api.whatsapp.com/send/?phone=%2B917879796084&text=Hi&type=phone_number&app_absent=0",
-  ResumePath: "src/assets/Srinath_Resume.pdf",
+  ResumePath: "https://drive.google.com/file/d/15wCsx_Nwg3EqIHY5L85oGzPXqK49U_iU/view?usp=sharing",
   ResumeDownloadFileName: "Srinath_Resume.pdf",
   ProjectsData: [
     {
       name: "Weather pulse",
       description:
         "Get real-time weather updates and forecasts with our user-friendly weather app.",
-      image: "src/assets/Project-logo.png?height=300&width=400",
+      image: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430426/umtfj2qbhhlfrkdzbkxn.webp",
       projectLink: "https://master.d3csghc0js9fax.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath?tab=repositories",
     },
@@ -34,7 +34,7 @@ export const personalData = {
       name: "Split bills app",
       description:
         "Effortlessly split bills, track expenses with friends using our app.",
-      image: "src/assets/Project-logo-1.webp?height=300&width=400",
+      image: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430424/uolm17v44alz6uagw1fa.png",
       projectLink: "https://master.d3ed5p5d1uz9w.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath?tab=repositories",
     },
@@ -42,7 +42,7 @@ export const personalData = {
       name: "Inventory app",
       description:
         "Streamline your inventory tracking and management with our intuitive app.",
-      image: "src/assets/Project-logo.png?height=300&width=400",
+      image: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430426/umtfj2qbhhlfrkdzbkxn.webp",
       projectLink: "https://staging.d2oskg4us4kfei.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath/Inventory-backend",
     },
@@ -52,7 +52,7 @@ export const personalData = {
       title: "Software Engineer",
       company: "IConcept Software Services Pvt Ltd",
       period: "Feb 2023 - Present",
-      logo: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430425/uvkuxwpi2isrdccaxywn.png",
+      logo: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430424/snhci7jhx44oorldcy7w.png",
       responsibilities: [
         "I became proficient in developing and debugging robust RESTful APIs using Node.js.",
         "Played an important role in company projects like AgriPortal, MapOut Analytics, and NeoPmc.",
@@ -64,7 +64,7 @@ export const personalData = {
       title: "Mern Stack Course",
       company: "10x Academy",
       period: "Jun 2022 - Dec 2022",
-      logo: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430424/snhci7jhx44oorldcy7w.png",
+      logo: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430425/uvkuxwpi2isrdccaxywn.png",
       responsibilities: [
         "Start learning Mern stack around still Time",
         "Learned and created mini projects around frontend devs using Javascript, React",
