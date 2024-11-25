@@ -42,7 +42,7 @@ export const personalData = {
       name: "Inventory app",
       description:
         "Streamline your inventory tracking and management with our intuitive app.",
-      image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550677/WeatherPulseScreen.png",
+      image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550721/InventoryAppScreen.png",
       projectLink: "https://staging.d2oskg4us4kfei.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath/Inventory-backend",
     },
