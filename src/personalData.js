@@ -26,7 +26,7 @@ export const personalData = {
       name: "Weather pulse",
       description:
         "Get real-time weather updates and forecasts with our user-friendly weather app.",
-      image: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430426/umtfj2qbhhlfrkdzbkxn.webp",
+      image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550677/WeatherPulseScreen.png",
       projectLink: "https://master.d3csghc0js9fax.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath?tab=repositories",
     },
@@ -42,7 +42,7 @@ export const personalData = {
       name: "Inventory app",
       description:
         "Streamline your inventory tracking and management with our intuitive app.",
-      image: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430426/umtfj2qbhhlfrkdzbkxn.webp",
+      image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550677/WeatherPulseScreen.png",
       projectLink: "https://staging.d2oskg4us4kfei.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath/Inventory-backend",
     },
