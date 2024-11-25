@@ -36,7 +36,7 @@ export const personalData = {
     {
       name: "Inventory Management and Billings",
       description:
-        "Streamline your inventory tracking and management and billings with our intuitive app.",
+        "Streamline your inventory tracking and management and billings with our app.",
       image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550721/InventoryAppScreen.png",
       projectLink: "https://staging.d2oskg4us4kfei.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath/Inventory-backend",
