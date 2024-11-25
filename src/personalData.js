@@ -1,13 +1,8 @@
 // Form Spree API Key Should be in Env Files
 
-import {
-  FaJs,
-  FaReact,
-  FaNodeJs,
-  FaServer,
-  FaDatabase,
-  FaCode,
-} from "react-icons/fa";
+import { FaJs, FaReact, FaNodeJs, FaServer, FaDatabase, FaCode, FaPython } from "react-icons/fa";
+import { DiRedis } from "react-icons/di";
+import { SiNestjs,SiNginx,SiMongodb,SiExpress, SiRabbitmq, SiFlask} from "react-icons/si";
 
 export const personalData = {
   Name: "Srinath Reddy",
@@ -76,45 +71,81 @@ export const personalData = {
   SkillsData: [
     {
       name: "JavaScript",
-      progress: 75,
+      progress: 85,
       icon: FaJs,
       color: "#f7df1e",
-      code: "const greet = (name) => {\n  console.log(`Hello, ${name}!`);\n};",
     },
     {
-      name: "React",
-      progress: 80,
-      icon: FaReact,
-      color: "#61dafb",
-      code: "function App() {\n  return <h1>Hello, React!</h1>;\n}",
+      name: "TypeScript",
+      progress: 85,
+      icon: FaCode,
+      color: "#007acc",
     },
     {
-      name: "Node.js",
+      name: "Python",
+      progress: 75,
+      icon: FaPython,
+      color: "#4584b6",
+     
+    },
+    {
+      name: "Node Js",
       progress: 85,
       icon: FaNodeJs,
       color: "#68a063",
-      code: "const http = require('http');\nhttp.createServer((req, res) => {\n  res.end('Hello, Node.js!');\n}).listen(3000);",
     },
     {
-      name: "Express.js",
+      name: "Express Js",
       progress: 90,
-      icon: FaServer,
+      icon: SiExpress,
       color: "#000000",
-      code: "const express = require('express');\nconst app = express();\napp.get('/', (req, res) => {\n  res.send('Hello, Express!');\n});",
+    },
+    {
+      name: "React Js",
+      progress: 75,
+      icon: FaReact,
+      color: "#61dafb",
     },
     {
       name: "MongoDB",
       progress: 85,
-      icon: FaDatabase,
+      icon: SiMongodb,
       color: "#4db33d",
-      code: "db.collection('users').insertOne({\n  name: 'John Doe',\n  email: 'john@example.com'\n});",
     },
     {
-      name: "TypeScript",
+      name: "Nest Js",
       progress: 75,
-      icon: FaCode,
-      color: "#007acc",
-      code: "interface User {\n  name: string;\n  age: number;\n}\n\nconst user: User = {\n  name: 'Alice',\n  age: 30\n};",
+      icon: SiNestjs,
+      color: "#E92747",
     },
+    {
+      name: "Nginx",
+      progress: 85,
+      icon: SiNginx,
+      color: "#009900",
+     
+    },
+    {
+      name: "Flask",
+      progress: 75,
+      icon: SiFlask,
+      color: "#FFFFFF",
+     
+    },
+    {
+      name: "Redis Cache",
+      progress: 85,
+      icon: DiRedis,
+      color: "#D82C20",
+     
+    },
+    {
+      name: "Rabbit MQ",
+      progress: 75,
+      icon: SiRabbitmq,
+      color: "#f60",
+     
+    },
+    ,
   ],
 };
