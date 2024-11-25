@@ -19,7 +19,7 @@ const Contact = () => {
     // Handle submission via Formspree
     await handleSubmit(event);
     // console.log("----", JSON.stringify(state));
-    if (state && state.succeeded) {
+    if (state && !state.errors) {
       event.target.reset(); // Clear form fields
       setFormState({ success: true, error: false });
       setTimeout(() => setFormState({ success: false, error: false }), 5000); // Remove success message after 5 seconds
