@@ -51,7 +51,7 @@ export const personalData = {
     {
       title: "Software Engineer",
       company: "IConcept Software Services Pvt Ltd",
-      period: "Feb 2023 - Present",
+      period: "Feb 2022 - Present",
       logo: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430424/snhci7jhx44oorldcy7w.png",
       responsibilities: [
         "I became proficient in developing and debugging robust RESTful APIs using Node.js.",
@@ -61,9 +61,9 @@ export const personalData = {
       ],
     },
     {
-      title: "Mern Stack Course",
+      title: "Mern Stack Web Development Bootcamp",
       company: "10x Academy",
-      period: "Jun 2022 - Dec 2022",
+      period: "Jun 2021 - Jan 2022",
       logo: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430425/uvkuxwpi2isrdccaxywn.png",
       responsibilities: [
         "Start learning Mern stack around still Time",
