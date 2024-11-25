@@ -26,7 +26,7 @@ export const personalData = {
       githubUrl: "https://github.com/chitha-srinath?tab=repositories",
     },
     {
-      name: "Split bills app",
+      name: "Split the bills app",
       description:
         "Effortlessly split bills, track expenses with friends using our app.",
       image: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430424/uolm17v44alz6uagw1fa.png",
@@ -34,9 +34,9 @@ export const personalData = {
       githubUrl: "https://github.com/chitha-srinath?tab=repositories",
     },
     {
-      name: "Inventory app",
+      name: "Inventory Management and Billings",
       description:
-        "Streamline your inventory tracking and management with our intuitive app.",
+        "Streamline your inventory tracking and management and billings with our intuitive app.",
       image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550721/InventoryAppScreen.png",
       projectLink: "https://staging.d2oskg4us4kfei.amplifyapp.com/",
       githubUrl: "https://github.com/chitha-srinath/Inventory-backend",
