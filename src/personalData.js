@@ -14,7 +14,7 @@ export const personalData = {
   GithubUrl: "https://github.com/chitha-srinath?tab=repositories",
   WhatsAppUrl:
     "https://api.whatsapp.com/send/?phone=%2B917879796084&text=Hi&type=phone_number&app_absent=0",
-  ResumePath: "https://drive.google.com/file/d/15wCsx_Nwg3EqIHY5L85oGzPXqK49U_iU/view?usp=sharing",
+  ResumePath: "https://drive.google.com/file/d/1OtDHcx7xwgE1ytUnhwReNknhnmFsPL64/view?usp=sharing",
   ResumeDownloadFileName: "Srinath_Resume.pdf",
   ProjectsData: [
     {
