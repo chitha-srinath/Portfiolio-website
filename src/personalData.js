@@ -38,7 +38,7 @@ export const personalData = {
       description:
         "Streamline your inventory tracking and management and billings with our app.",
       image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550721/InventoryAppScreen.png",
-      projectLink: "https://master.dm69q20mpfeu4.amplifyapp.com/",
+      projectLink: "https://inventory-app-ten-ruby.vercel.app/",
       githubUrl: "https://github.com/chitha-srinath/Inventory-backend",
     },
   ],
