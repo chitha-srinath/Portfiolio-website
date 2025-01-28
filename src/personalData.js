@@ -22,7 +22,7 @@ export const personalData = {
       description:
         "Get real-time weather updates and forecasts with our user-friendly weather app.",
       image: "https://res.cloudinary.com/navcloudin/image/upload/v1732550677/WeatherPulseScreen.png",
-      projectLink: "https://master.d3csghc0js9fax.amplifyapp.com/",
+      projectLink: "https://weather-pulse-gamma.vercel.app/",
       githubUrl: "https://github.com/chitha-srinath?tab=repositories",
     },
     {
@@ -30,7 +30,7 @@ export const personalData = {
       description:
         "Effortlessly split bills, track expenses with friends using our app.",
       image: "https://res.cloudinary.com/daxjgy2bv/image/upload/v1732430424/uolm17v44alz6uagw1fa.png",
-      projectLink: "https://master.d3ed5p5d1uz9w.amplifyapp.com/",
+      projectLink: "https://billsplittingapp-one.vercel.app/",
       githubUrl: "https://github.com/chitha-srinath?tab=repositories",
     },
     {
