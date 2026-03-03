@@ -15,7 +15,6 @@ export const personalData = {
   WhatsAppUrl:
     "https://api.whatsapp.com/send/?phone=%2B917879796084&text=Hi&type=phone_number&app_absent=0",
   ResumePath: "https://drive.google.com/file/d/1wpCFIdwQAU6TxHdFV5xAH3XJZAeYZbgo/view?usp=sharing",
-  Resume1Path: "https://drive.google.com/file/d/1OtDHcx7xwgE1ytUnhwReNknhnmFsPL64/view?usp=sharing",
   ResumeDownloadFileName: "Srinath_Resume.pdf",
   ProjectsData: [
     {
